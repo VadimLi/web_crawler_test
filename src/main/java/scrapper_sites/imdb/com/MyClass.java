@@ -32,7 +32,6 @@ public class MyClass {
         index++;
     }
 
-
     public void getPageLinks(final String URL) {
 
         System.out.println();
